@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componentpractice/static/css/main.cebe15ad.css",
+    "main.js": "/componentpractice/static/js/main.86ed452a.js",
+    "index.html": "/componentpractice/index.html",
+    "main.cebe15ad.css.map": "/componentpractice/static/css/main.cebe15ad.css.map",
+    "main.86ed452a.js.map": "/componentpractice/static/js/main.86ed452a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebe15ad.css",
+    "static/js/main.86ed452a.js"
+  ]
+}
